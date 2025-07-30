@@ -1,0 +1,30 @@
+.line-L{
+    height : 4px;
+    width : 80px;
+    margin-right : 16px;
+}
+.line-R{
+    height : 4px;
+    width : 80px;
+    margin-left : 16px;
+}
+.form-body input{
+    border : none;
+    outline: none;
+}
+
+.borderless-input {
+  border: none !important;
+  border-bottom: 1px solid #333 !important;
+  outline: none !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+}
+
+.borderless-input:focus {
+  border: none !important;
+  border-bottom: 1px solid #333 !important;
+  outline: none !important;
+  box-shadow: none !important;
+   border-radius: 0 !important;
+}

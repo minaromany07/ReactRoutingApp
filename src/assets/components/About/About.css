@@ -1,0 +1,16 @@
+.about-section {
+    background-color: #1ABC9C !important;
+height : 60vh;
+}
+.line-L{
+    background-color: #FFFFFF;
+    height : 4px;
+    width : 80px;
+    margin-right : 16px;
+}
+.line-R{
+    background-color: #FFFFFF;
+    height : 4px;
+    width : 80px;
+    margin-left : 16px;
+}
